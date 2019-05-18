@@ -8,8 +8,9 @@
       <div class="rr-lazyload">
           <img data-lazy="Your-Image.png" />
       </div>
-
--Você pode animar também estilizando a class .rr-show
+      
+     
+-Você pode animar, estilizando a classe .rr-show
 
 
 ### CSS
