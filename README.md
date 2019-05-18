@@ -8,7 +8,7 @@
 -Invez de colocarmos a imagem no src, usasse o data-lazy.
 
 
-- <div class="rr-lazyload">
+-<div class="rr-lazyload">
      <img data-lazy="https://ik.imagekit.io/demo/img/image1.jpeg?tr=w-400,h-300" />
   </div>
 
@@ -23,9 +23,10 @@
     opacity: 0;
     transform: scale(0);
     transition: all .3s linear;
-  }
-
-  .rr-show{
+     }
+    .rr-show{
     transform: scale(1);
     opacity: 1;
-  }
+    }
+
+
