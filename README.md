@@ -6,7 +6,7 @@
 
 
       <div class="rr-lazyload">
-          <img data-lazy="Your-Image" />
+          <img data-lazy="Your-Image.png" />
       </div>
 
 -Você pode animar também estilizando a class .rr-show
