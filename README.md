@@ -1,17 +1,16 @@
 ## LazyLoad Vanilla
 
-
 -LazyLoad feito em Vanilla com IntersectionObserver.
 
 ## Como usar
+
+
       <div class="rr-lazyload">
-          <img data-lazy="https://ik.imagekit.io/demo/img/image1.jpeg?tr=w-400,h-300" />
+          <img data-lazy="Your-Image" />
       </div>
 
 -Você pode animar também estilizando a class .rr-show
 
-
-   
 
 ### CSS
 
