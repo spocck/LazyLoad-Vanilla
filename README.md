@@ -3,7 +3,7 @@
 
 -LazyLoad feito em Vanilla com IntersectionObserver.
 
-#Como usar
+## Como usar
 
 -Invez de colocarmos a imagem no src, usasse o data-lazy.
 
@@ -17,7 +17,7 @@
 
     // Exemplo 
 
-###CSS
+### CSS
     img {
     opacity: 0;
     transform: scale(0);
