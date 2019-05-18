@@ -1,4 +1,4 @@
-const targets = document.querySelectorAll('.rr-lazyload')
+const targets = document.querySelectorAll('.rr-lazyload img')
 const lazyLoad = target => {
     const io = new IntersectionObserver((entries, observer) => {
         [...entries].map((entry) => {
