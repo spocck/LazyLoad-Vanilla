@@ -7,7 +7,7 @@
 
 -Invez de colocarmos a imagem no src, usasse o data-lazy.
 
-    // Exemplo //
+
 - <div class="rr-lazyload">
      <img data-lazy="https://ik.imagekit.io/demo/img/image1.jpeg?tr=w-400,h-300" />
   </div>
