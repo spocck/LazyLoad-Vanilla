@@ -1,28 +1,26 @@
-## LazyLoad Vanilla
+## Vanilla LazyLoad
 
--LazyLoad feito em Vanilla com IntersectionObserver.
+-LazyLoad made in Vanilla with IntersectionObserver.
 
-## Como usar
+## How to use
 
 
-      <div class="rr-lazyload">
-          <img data-lazy="Your-Image.png" />
-      </div>
-      
-     
--Você pode animar, estilizando a classe .rr-show
+<div class = "rr-lazyload">
+<img data-lazy = "{{your-image}}" />
+</ div>
+
+
+-You can animate, stylizing the class .rr-show
 
 
 ### CSS
 
-    img{
-    opacity: 0;
-    transform: scale(0);
-    transition: all .3s linear;
-     }
-    .rr-show{
-    transform: scale(1);
-    opacity: 1;
-    }
-
-
+img {
+opacity: 0;
+transform: scale (0);
+transition: all linear .3s;
+}
+.rr-show {
+transform: scale (1);
+opacity: 1;
+}
